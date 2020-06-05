@@ -1,0 +1,11 @@
+{
+    "kind": "Scale",
+    "apiVersion": "autoscaling/v1",
+    "metadata": {
+      "name": "un-dos-k8s",
+      "namespace": "default"
+    },
+    "spec": {
+      "replicas": 9
+    }
+}  
